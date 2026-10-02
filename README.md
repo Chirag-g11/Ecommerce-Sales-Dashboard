@@ -84,4 +84,4 @@ Seasonal Spikes: Sales experience a sharp upward trend toward the final quarter 
 👤 Author
 Chirag Goyal
 
-Connect with me on [GitHub](https://github.com/chirag-g11) | [LinkedIn](www.linkedin.com/in/chirag-goyal-a7715a289)
+Connect with me on [GitHub](https://github.com/chirag-g11) | [LinkedIn](https://www.linkedin.com/in/chirag-goyal-a7715a289)
