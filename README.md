@@ -43,6 +43,7 @@ ecommerce-sales-dashboard/
 │   └── ecommerce_sales_dashboard.pbix
 │
 └── README.md
+```
 ⚙️ Project Workflow & Steps
 1. Data Cleaning & Preprocessing (Python)
 Handled duplicate entries and checked for null values using Pandas.
